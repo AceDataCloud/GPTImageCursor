@@ -1,7 +1,7 @@
 {
   "name": "gpt-image",
-  "displayName": "GPT Image by Ace Data Cloud",
-  "version": "1.0.1",
+  "displayName": "GPT Image",
+  "version": "1.0.2",
   "minClientVersions": {
     "cursor": "3.13.0"
   },
